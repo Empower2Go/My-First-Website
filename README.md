@@ -7,7 +7,7 @@ Text - this is more
 - Manages Data Repository
   - Invenio-based Repository
 - Works with researchers
-[Caltech Data Repository] (https://data.caltech.edu)
+[Caltech Data Repository](https://data.caltech.edu)
 
  ###code examples
  '''
